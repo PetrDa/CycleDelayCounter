@@ -1,0 +1,4 @@
+CycleDelayCounter	KEYWORD1
+setDelay	KEYWORD2
+startCounter	KEYWORD2
+finished	KEYWORD2
